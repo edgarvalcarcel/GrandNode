@@ -147,9 +147,9 @@
     .header-nav > .navbar {
         height: 58px;
     }
-    .header-nav .navbar-brand img {
+/*    .header-nav .navbar-brand img {
         max-height: 45px;
-    }
+    }*/
     .header-nav .top-header-items.navbar-nav {
         position: fixed;
         bottom: 0;
