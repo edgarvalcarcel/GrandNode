@@ -1,6 +1,6 @@
-﻿#87C255 /* commons */
+﻿/* commons */
 a {
-    color: #0C5D6A;
+    color: #87C255;
 }
 a:hover {
     color: #02899C;
@@ -1522,7 +1522,7 @@ footer .list-group-item span:last-child {
 }
 .contrast-switch .custom-control-label::before {
     border-width: 2px;
-    border-color: #1FB0C7;
+    border-color: #87C255;
 }
 .contrast-switch.custom-switch .custom-control-label::after {
     background-color: #fff;
