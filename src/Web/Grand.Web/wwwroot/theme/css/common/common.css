@@ -1,5 +1,4 @@
-﻿/* commons */
-
+﻿#87C255 /* commons */
 a {
     color: #0C5D6A;
 }
@@ -394,15 +393,15 @@ ul.Menu.-vertical {
      min-width: 200px;
 }
 /* Styling of hyperlink text */
- .Menu li > a, .Menu li > div {
-     display: flex;
-     align-items: center;
-     width: 100%;
-     padding: 10px;
-     font-weight: 500;
-     text-decoration: none;
-     color: inherit;
-}
+    .Menu li > a, .Menu li > div {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding: 10px;
+        font-weight: 500;
+        text-decoration: none;
+        color: #87C255;
+    }
 /* Animation speed of :hover shading */
  .Menu li > a:first-child {
      transition: background-color 0.2s;
@@ -1529,8 +1528,8 @@ footer .list-group-item span:last-child {
     background-color: #fff;
 }
 .contrast-switch .custom-control-input:checked ~ .custom-control-label::before {
-    background-color: #1FB0C7;
-    border-color: #1FB0C7;
+    background-color: #87C255;
+    border-color: #87C255;
 }
 .contrast-switch .b-icon.light {
     visibility: visible;
@@ -1619,7 +1618,7 @@ footer .list-group-item span:last-child {
     background: #2d3133;
 }
 [dark-theme="true"] a {
-    color: #1FB0C7;
+    color: #87C255;
 }
 [dark-theme="true"] footer .list-group-item-action:focus, [dark-theme="true"] footer .list-group-item-action:hover {
     color: #42C0D1;
