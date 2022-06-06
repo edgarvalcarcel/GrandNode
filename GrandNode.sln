@@ -114,7 +114,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{B7D07028
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grand.Data.Tests", "src\Tests\Grand.Data.Tests\Grand.Data.Tests.csproj", "{ACCAAA38-FBF0-4C18-9227-4A7A3897C5AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grand.Business.Core", "src\Business\Grand.Business.Core\Grand.Business.Core.csproj", "{1C0C8328-3B03-4D43-8309-7F0F52A0475F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grand.Business.Core", "src\Business\Grand.Business.Core\Grand.Business.Core.csproj", "{1C0C8328-3B03-4D43-8309-7F0F52A0475F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
