@@ -20,6 +20,10 @@
 	</Target>
 
 	<ItemGroup>
+	  <None Remove="Assets\slider\sample-images\banner1.png~RF8f716f.TMP" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<ProjectReference Include="..\..\Business\Grand.Business.Core\Grand.Business.Core.csproj">
 			<Private>false</Private>
 		</ProjectReference>
